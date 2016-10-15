@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ser",
+				"SERVICE_NAME"
+			],
+			[
+				"pi",
+				"PID"
+			],
+			[
+				"jre",
+				"JRE_HOME"
+			],
+			[
+				"SERV",
+				"SERVICE_NAME"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"SLAVE",
+				"SLAVE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello.py",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows",
+				"name": "hello world.py"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/dev/workspace/python"
+	],
+	"file_history":
+	[
+		"/F/dev/workspace/weex/weex-dev/examples/index.we",
+		"/F/dev/workspace/weex/weex-dev/examples/animation.we",
+		"/F/dev/workspace/weex/weex-dev/android/playground/app/src/main/java/com/alibaba/weex/WXPageActivity.java",
+		"/F/dev/workspace/weex/weex-dev/android/playground/app/src/main/java/com/alibaba/weex/WXApplication.java",
+		"/F/dev/workspace/weex/weex-dev/android/playground/app/src/main/java/com/alibaba/weex/WXBaseActivity.java",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root [2].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root.js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/oAuth.js",
+		"/F/work/hxp2p/SVN/mobile/hxAppCenter/src/sysmParam.properties",
+		"/F/study/alibaba/tengine/nginx.conf",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root [3].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/dailySales [3].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/dailySalesofStore.js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/dailySales [2].js",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_common_mortgage_v2.ftl",
+		"/F/study/redis/虚拟机配置/redis-cluster/7001/redis.conf",
+		"/F/study/project/smartrule/src/com/bless/common/util/PasswordUtil.java",
+		"/F/study/project/smartrule/src/com/bless/common/util/MailSend.java",
+		"/F/study/project/smartrule/src/com/bless/common/util/CommonUtil.java",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_comon_loan_v2.ftl",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_zge_loan_company_v2.ftl",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_zge_loan_person_v2.ftl",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/民品/20160701/minpin_multi_v2.ftl",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/dailySales.js",
+		"/F/dev/Server/apache-tomcat-8.0.35/conf/server.xml",
+		"/C/Users/huxia/AppData/Local/Temp/Rar$DI00.642/web.xml",
+		"/F/dev/workspace/InternetArch_workspace/fgh-framework/.gitignore",
+		"/D/storm_test/com.fgh.storm1.bolt.WriteBolt@29e7371e",
+		"/F/dev/workspace/InternetArch_workspace/storm/.git/config",
+		"/F/dev/workspace/InternetArch_workspace/fgh-framework/.git/config",
+		"/D/storm_test/com.fgh.storm1.bolt.WriteBolt@29a773bd",
+		"/D/storm_test/com.fgh.storm1.bolt.WriteBolt@6ca1bad3",
+		"/D/storm_test/com.fgh.storm1.bolt.WriteBolt@c10dc6c",
+		"/C/Users/huxia/AppData/Local/Temp/c2ee9a8a-8bd2-4385-a135-d2077ba5301a/version-2/log.1",
+		"/D/gc.log",
+		"/F/dev/workspace/InternetArch_workspace/Disruptor/.git/config",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/oAuth [2].js",
+		"/C/Users/huxia/Desktop/20160729删除银行卡.txt",
+		"/C/Users/huxia/Desktop/pub/80/sales/root.js",
+		"/C/Users/huxia/AppData/Local/Temp/Rar$DI02.255/root.js",
+		"/C/Users/huxia/Desktop/pub/80/sales/hxclm/conf/authz",
+		"/C/Users/huxia/Desktop/pub/80/sales/hxclm/conf/passwd",
+		"/C/Users/huxia/Desktop/pub/80/sales/hxclm/conf/svnserve.conf",
+		"/C/Users/huxia/Desktop/1.txt",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root [6].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/dailySales [4].js",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/pages/pawn/pawnageList.html",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root [4].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/root [5].js",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/controller/pawn/houseDetail.js",
+		"/C/Users/huxia/Desktop/jquery.min.js",
+		"/F/study/apache/Storm/apache-storm-1.0.1/examples/storm-starter/src/jvm/storm/starter/StatefulWindowingTopology.java",
+		"/F/dev/workspace/InternetArch_workspace/dubboxConsumer/.git/config",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$1/Shutdownable.java",
+		"/F/dev/workspace/InternetArch_workspace/dubboxConsumer/.gitignore",
+		"/F/dev/workspace/InternetArch_workspace/InternetArch/.gitignore",
+		"/F/dev/workspace/InternetArch_workspace/dubboxProvider/.git/config",
+		"/D/jdkSerial.bin",
+		"/C/Users/huxia/AppData/Local/Temp/Rar$DI00.290/jquery.js",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/controller/pawn/pawnList.js",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/controller/pawn/pawnageList.js",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/pages/pawn/houseDetail.html",
+		"/F/dev/workspace/erp_workspace/wechat_web/src/main/webapp/WEB-INF/pages/pawn/ticketList.html",
+		"/F/study/redis/虚拟机配置/redis-cluster/redis.conf",
+		"/C/Users/huxia/Desktop/pub/80/sales/dailySales.js",
+		"/C/Users/huxia/Desktop/pub/191/config.properties",
+		"/C/Users/huxia/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/F/dev/maven_repo/settings.xml",
+		"/F/dev/Server/apache-tomcat-7.0.64_s/logs/localhost_access_log.2016-05-29.txt",
+		"/F/dev/Server/apache-tomcat-7.0.64_s/conf/server.xml",
+		"/C/Users/huxia/Desktop/fgh-codetemplates.xml",
+		"/F/dev/zookeeper-3.4.6/conf/zoo.cfg",
+		"/C/Users/huxia/Desktop/pawn_his_shoubiao.sql",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/evalBeforePawnM.js",
+		"/C/Users/huxia/Desktop/员工.sql",
+		"/C/Users/huxia/Desktop/shoubiaoHis.sql",
+		"/C/Users/huxia/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTextTrans.sublime-settings",
+		"/C/Users/huxia/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/F/dev/Server/apache-tomcat-8.0.35/webapps/hx-sales-web/WEB-INF/web.xml",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_zge_mortgage_person_v2.ftl",
+		"/F/work/erp_svn/doc/03_基本设计/03.合同模板/新模板/金融/新产品20160513/house_zge_mortgage_company_v2.ftl",
+		"/F/dev/workspace/InternetArch_workspace/hx-sales-web/.git/config",
+		"/F/dev/git_work/gitolite-admin/.git/config",
+		"/F/dev/git_work/gitolite-admin/conf/gitolite.conf",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [9].xml",
+		"/C/Users/huxia/Desktop/quartz_job.xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz.properties",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [8].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [7].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [6].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [5].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job.xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [2].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [4].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/quartz_job [3].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/evalBeforePawnM [4].js",
+		"/F/dev/Server/apache-tomcat-7.0.64/conf/server.xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/evalBeforePawnM [2].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/web [2].xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/evalBeforePawnM [3].js",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/web.xml",
+		"/F/dev/workspace/erp_workspace_git/wechat_web/.git/config",
+		"/F/dev/workspace/InternetArch_workspace/fgh-sys-service/pom.xml",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$0/resources.xml",
+		"/C/Users/huxia/Desktop/pub/p2p/flow_0531.txt",
+		"/C/Users/huxia/Desktop/pom.xml",
+		"/F/work/project/tzxsaas/resource/spring/applicationContext.xml",
+		"/F/work/project/tzxsaas/WebRoot/login.jsp",
+		"/C/Users/huxia/Desktop/pub/wechat/zookeeper-consumer.xml",
+		"/C/Users/huxia/Desktop/pub/wechat/root.js",
+		"/F/dev/Server/apache-tomcat-7.0.64/conf/context.xml",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$1/dubbo.xml",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$0/dubbo.xml",
+		"/F/dev/Server/apache-tomcat-7.0.64/conf/tomcat-users.xml",
+		"/F/dev/Server/tomcat-6.0.29/conf/server.xml",
+		"/C/Users/huxia/AppData/Roaming/NetSarang/Xftp/Temporary/house_common_mortgage_v2.ftl",
+		"/F/work/hxerp/民品/手表/shoubiaoHis.sql",
+		"/C/Users/huxia/Desktop/收当类型sql.txt",
+		"/C/Users/huxia/Desktop/pub/80/web.xml",
+		"/E/soft/dev/oracle/Instant Client/network/admin/tnsnames.ora",
+		"/F/dev/workspace/InternetArch_workspace/InternetArch/.git/config",
+		"/F/dev/workspace/InternetArch_workspace/hx-400-service/.git/config",
+		"/F/dev/workspace/InternetArch_workspace/InternetArch1/WebContent/index.jsp",
+		"/F/dev/workspace/erp_workspace/pbs-parent/pom.xml",
+		"/C/Users/huxia/Downloads/赵惟依全套.torrent",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$1/KVConfigManager.java",
+		"/C/Users/huxia/AppData/Local/Temp/360zip$Temp/360$0/NamesrvController.java",
+		"/E/soft/dev/oracle/Instant Client/network/admin/sample/listener.ora"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PasswordUtil",
+			"上交息",
+			"173.16.4.94:8088",
+			"protected-mode",
+			"log",
+			"appendonly",
+			"3px",
+			"平方",
+			"showLoading",
+			"Loader",
+			"curator",
+			"debtTerm",
+			"<u",
+			"<u'",
+			"<u",
+			">\n",
+			"\">\n",
+			"fgh-sys",
+			"PawnProjectStart",
+			"sql",
+			"provinceCode",
+			"province",
+			"district",
+			"province",
+			"library",
+			"dubbo",
+			"47",
+			" ",
+			"]",
+			"[",
+			"store",
+			"22",
+			"loanForPawnAddAmt",
+			"loanMoney",
+			"addLoanTerm",
+			"hxdb",
+			"websocket",
+			"\\",
+			"enableTran",
+			"*.do",
+			"spring",
+			"2.8.4",
+			"dubbo",
+			"refer",
+			"queryEvaluationDetail",
+			"kyro",
+			"dubbo",
+			"mysql",
+			"84",
+			"fund",
+			"uroot",
+			"MYSQL_PWD",
+			"innodb_metric",
+			"/usr/local/zabbix/etc/.my.cnf",
+			"ecp",
+			"PermitRootLogin",
+			"propertyType",
+			"邮箱",
+			"通讯地址",
+			"maven-jetty-plugin",
+			"mina",
+			"javassist",
+			"button",
+			"年",
+			"mortgageAddress",
+			"customerUuid",
+			"clearfloat",
+			"建筑面积",
+			"queryContractDetail",
+			"logback",
+			"$",
+			"LoginService",
+			"PawnService",
+			"Login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"172.16.88.80:8088",
+			"hx-sales-web",
+			"",
+			"/",
+			"u${USER_NAME}",
+			"USER_PWD",
+			"/usr/local/zabbix-agent/script/.my.cnf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "hello world.py",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										19,
+										20
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5,
+										6
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serverx",
+				"F:\\dev\\Server\\apache-tomcat-7.0.64_s\\conf\\server.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
