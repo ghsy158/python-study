@@ -12,8 +12,9 @@ import pymongo
 # from .spiders.zbtong import ZbtongSpider
 # from .spiders.neitui import NeituiSpider
 
-from .items import SpecItem,NewsItem,ZpItem
-from .items import CjHouseItem, HouseItem
+from tutorials.items import SpecItem, NewsItem, ZpItem
+from tutorials.items import CjHouseItem, HouseItem
+from tutorials.items import LjESItem
 
 
 class TutorialsPipeline(object):
@@ -24,6 +25,7 @@ class TutorialsPipeline(object):
 class MongoPipeline(object):
     lj_es_collection = 'scrapy_ershoufang_items'
     lj_cj_collection = 'scrapy_cj_ershoufang_items'
+    lj_ershou_col = 'lj_ershou'
 
     # zp_collection_name = 'zp_info_table'
     # oly_collection_name = 'aoyun_news_table'
@@ -58,6 +60,9 @@ class MongoPipeline(object):
             key_index = item['url']
             if not self.db[self.oly_collection_name].find({'url': key_index}).count():
                 self.db[self.oly_collection_name].insert(dict(item))
+        elif isinstance(item, LjESItem):
+            self.db[self.lj_ershou_col].insert(dict(item))
+            print("insert success")
         else:
             key_index = item['url']
             if not self.db[self.zp_collection_name].find({'url': key_index}).count():
