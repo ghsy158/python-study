@@ -6,7 +6,7 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 import pymongo
-from lianjia_spider.lianjia_spider.items import LjESItem,LjCjItem
+from lianjia_spider.items import LjESItem,LjCjItem
 
 class LianjiaSpiderPipeline(object):
     def process_item(self, item, spider):
@@ -34,7 +34,7 @@ class MongoPipeline(object):
         self.client.close()
 
     def process_item(self, item, spider):
-        if isinstance(item, LjESItem):
-            self.db[self.lj_ershou_col].insert(dict(item))
-            print("insert success")
+        # if isinstance(item, LjESItem):
+        self.db[self.lj_ershou_col].insert(dict(item))
+        print("insert success")
         return item
